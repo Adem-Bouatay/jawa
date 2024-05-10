@@ -1,0 +1,4 @@
+1)
+    les exceptions qui peuvent etre lever sont ArithmeticException et InputMismatchException
+2)
+    

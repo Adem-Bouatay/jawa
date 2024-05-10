@@ -1,0 +1,2 @@
+1) herite x et y
+6) non, la classe cylinder n'herite pas cet attribut

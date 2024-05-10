@@ -1,0 +1,3 @@
+1) La structure try-catch en Java permet de surveiller et de gérer les exceptions qui se produisent pendant l'exécution d'un programme, en capturant les erreurs dans un bloc try et en spécifiant des blocs catch pour traiter chaque type d'exception potentiel.
+2) Execute le code quelle que soit le resultat
+3) pour lever des custom exceptions
